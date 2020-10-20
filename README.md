@@ -1,4 +1,4 @@
 # dinamic_fibonacci
 
-Dependencies:
-- Bokeh
+**Dependencies:**
+  - Bokeh
